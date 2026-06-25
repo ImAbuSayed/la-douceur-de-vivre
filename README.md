@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-douceur-de-vivre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: La Douceur De Vivre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-douceur-de-vivre/) |
+| **Get License** | [Obtain a Music License for La Douceur De Vivre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-douceur-de-vivre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre du club, ton regard croise le mien
+> Un désir électrique, ma douce, tout te va si bien
+> On oublie le reste du monde, laisse le son nous emporter
+> La douceur de vivre, c'est ce soir qu'on va la goûter
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
