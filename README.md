@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-douceur-de-vivre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Douceur De Vivre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-douceur-de-vivre/) |
+| **Get License** | [Official Music Licensing for La Douceur De Vivre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-douceur-de-vivre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e2ed4a84c854273e3972d1dd045ebd5f851a65011610ad57d686a921d39a2ee` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
